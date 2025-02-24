@@ -32,4 +32,4 @@ summary_wait_time = 60
   enable = true
   api-key = "YOUR_DIFY_API_KEY"
   base-url = "YOUR_DIFY_BASE_URL"
-  http-proxy = null
+  http-proxy = ""
