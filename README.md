@@ -1,8 +1,10 @@
-# ChatSummary - 聊天记录总结插件 📝
+# ChatSummary - XYBotv2 聊天记录总结插件 📝
 
 [![Version](https://img.shields.io/github/v/release/your_username/ChatSummary)](https://github.com/your_username/ChatSummary/releases)
 [![Author](https://img.shields.io/badge/Author-%E8%80%81%E5%A4%8F%E7%9A%84%E9%87%91%E5%BA%93-blue)](https://github.com/your_username)
 [![License](https://img.shields.io/github/license/your_username/ChatSummary)](LICENSE)
+
+**本插件是 [XYBotv2](https://github.com/HenryXiaoYang/XYBotv2) 的一个插件。**
 
 ## 简介
 
@@ -27,10 +29,11 @@
 
 ## 安装
 
-1.  将插件文件复制到你的插件目录中 📂。
-2.  安装依赖：`pip install loguru aiohttp python-tomli` (如果需要) 🛠️
-3.  配置插件（见配置章节）⚙️。
-4.  重启你的应用程序 🔄。
+1.  确保你已经安装了 [XYBotv2]([https://github.com/HenryXiaoYang/XYBotV2])。
+2.  将插件文件复制到 XYBotv2 的插件目录中 📂。
+3.  安装依赖：`pip install loguru aiohttp python-tomli` (如果需要) 🛠️
+4.  配置插件（见配置章节）⚙️。
+5.  重启你的 XYBotv2 应用程序 🔄。
 
 ## 配置
 
@@ -48,4 +51,3 @@ enable = true
 commands = ["$总结", "总结"]  # 触发总结的命令
 default_num_messages = 100 # 默认总结 100 条消息
 summary_wait_time = 60      # 总结等待时间（秒）
-
