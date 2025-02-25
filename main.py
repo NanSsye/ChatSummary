@@ -21,8 +21,8 @@ class ChatSummary(PluginBase):
     """
 
     description = "总结聊天记录"
-    author = "AI编程猫"
-    version = "1.1.0"
+    author = "老夏的金库"
+    version = "2.0.0"
 
     # 总结的prompt
     SUMMARY_PROMPT = """
