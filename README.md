@@ -31,7 +31,7 @@
 
 1.  确保你已经安装了 [XYBotv2]([https://github.com/HenryXiaoYang/XYBotV2])。
 2.  将插件文件复制到 XYBotv2 的插件目录中 📂。
-3.  安装依赖：`pip install loguru /pip install aiohttp/pip install python-tomli` (如果需要) 🛠️
+3.  安装依赖：`pip install loguru aiohttp tomli` (如果需要) 🛠️
 4.  配置插件（见配置章节）⚙️。
 5.  重启你的 XYBotv2 应用程序 🔄。
 
