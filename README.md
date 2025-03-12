@@ -6,6 +6,8 @@
 
 **本插件是 [XYBotv2](https://github.com/HenryXiaoYang/XYBotv2) 的一个插件。**
 
+<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400" height="600">
+
 ## 简介
 
 `ChatSummary` 是一款强大的聊天记录总结插件！ 它可以自动分析聊天记录，并生成包含话题、参与者、时间段、过程和评价的总结报告 📊。 插件支持通过 Dify 大模型进行总结，提供更智能、更全面的分析结果 🧠。
